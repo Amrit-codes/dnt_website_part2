@@ -1,282 +1,185 @@
-Glowing - Reveal The Beauty of Skin
+Richard Ryan
+
+This is a photographer portfolio html template, made by codewithsadee.
 
 
 
 #---------- HEADER ----------#
 
-Free Shipping On All U.S. Orders $50+
+alt = Richard home
 
 aria-label = open menu
+alt = menu icon
 
-placeholder = Search product
-
-aria-label = search
-
-<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
-
-alt = Glowing
-
-aria-label = user
-
-<ion-icon name="person-outline" aria-hidden="true" aria-hidden="true"></ion-icon>
-
-aria-label = favourite item
-
-<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
-0
-
-aria-label = cart item
-
-$0.00
-<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
-0
-
-Home
-Collection
-Shop
-Offer
-Blog
-
-
-
-#---------- MOBILE NAVBAR ----------#
-
-alt = Glowing
+alt = Richard home
 
 aria-label = close menu
 
-<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
-
 Home
-Collection
-Shop
-Offer
-Blog
+Gallery
+About
+Services
+Portfolio
+Contact us
+
+alt = user icon
+Login
+
+My Address
+
+3287 Indiana Avenue, Waialua, Hawaii
+
+Urgent issue? call us at
+808-561-3846
 
 
 
 #---------- HERO ----------#
 
-Reveal The
-Beauty of Skin
+Richard Ryan
 
-Made using clean, non-toxic ingredients, our products are designed for everyone.
+Photographer
+Shutterbug
+Cameraman
+Pacific Portraits
 
-Starting at $7.99
+15+ Years Of Experience
 
-Shop Now
 
 
+#---------- GALLERY ----------#
 
-#---------- COLLECTION ----------#
+The Drunken
+Food, Event
+alt = arrow-forward icon
 
-Summer Collection
+Lettuce Entertain
+Landscape
 
-Starting at $17.99
+Leaping Lizard
+Model, Fashion
 
-Shop Now
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+Juan More Taco
+Architecture, Event
 
-What’s New?
+Goldilox Bagels
+People, Film
 
-Get the glow
+Cookie Monstah
+Wedding, Event
 
-Discover Now
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+Divine Pastabilities
+Wedding, Model
 
-Buy 1 Get 1
+The Lockhart Bar
+Health & Wellnes
 
-Starting at $7.99
+alt = mouse scroll
 
-Discover Now
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
 
+#---------- CATEGORY ----------#
+ 
+Landscape,
+Model,
+Street,
+Product,
+Fashion,
+Film,
+Architecture,
+Event,
+Wedding,
+People,
+Event,
+Food,
+Health & Wellnes.
 
-#---------- SHOP ----------#
 
-Our Bestsellers
 
-Shop All Products
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+#---------- CATEGORY ----------#
 
-alt = Facial cleanser
+Hi. I’m
+Richard Ryan
 
-aria-label = 20% off
--20%
+A passionate
+photograher
+who are working in this field for 
+last 10 years. 
+I’m ready to give you my best.
 
-aria-label = add to cart
-<ion-icon name="bag-handle-outline" aria-hidden="true"></ion-icon>
+alt = signature
 
-aria-label = add to whishlist
-<ion-icon name="star-outline" aria-hidden="true"></ion-icon>
+alt = Riachard Ryan
 
-aria-label = compare
-<ion-icon name="repeat-outline" aria-hidden="true"></ion-icon>
 
-$39.00
-$29.00
 
-Facial cleanser
+#---------- SERVICE ----------#
 
-aria-label = 5 start rating
+My Services
 
-<ion-icon name="star" aria-hidden="true"></ion-icon>
+Wedding Photography
+Aut temporibus qui vero.
 
-5170 reviews
+aria-label = See more
 
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none"><path d="M0 10H41" stroke="white" stroke-width="2" /><path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" /></svg>
 
-alt = Bio-shroom Rejuvenating Serum
+Event Organiser
+Nobis, magni modi ipsa culpa.
 
-Bio-shroom Rejuvenating Serum
+Product Marketing
+Tenetur porro repellendus!
 
+Videography
+Amet consectetur adipisicing elit
 
-alt = Coffee Bean Caffeine Eye Cream
 
-Coffee Bean Caffeine Eye Cream
 
+#---------- PORTFOLIO ----------#
 
-alt = Facial cleanser
+My Recent Work.
 
-Facial cleanser
+Shoe Promo
+Product
 
+aria-label = See more
 
-alt = Coffee Bean Caffeine Eye Cream
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none"><path d="M0 10H41" stroke="black" stroke-width="2" /><path d="M33 1L41.9 10.2727L33 19" stroke="black" stroke-width="2" /></svg>
 
-Coffee Bean Caffeine Eye Cream
+Wedding Shot
+Wedding
 
-Under $25
+Fashion Show
+Fashion, Model
 
-Shop All Products
-<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+Jumbo Barger
+Food
 
 
 
-#---------- BANNER ----------#
+#---------- CONTACT ----------#
 
-New Collection
+Contact Us
 
-Discover Our Autumn Skincare
+Work inquiry, Job oportunities? Send Message.
 
-Explore More
+alt = arrow-forward icon
 
-25% off Everything
-
-Makeup with extended range in colors for every human.
-
-Shop Sale
-
-
-
-#---------- FEATURE ----------#
-
-Why Shop with Glowing?
-
-alt = Guaranteed PURE
-
-Guaranteed PURE
-
-All Grace formulations adhere to strict purity standards and will never contain harsh or toxic ingredients
-
-alt = Completely Cruelty-Free
-Completely Cruelty-Free
-
-alt = Ingredient Sourcing
-Ingredient Sourcing
-
-
-
-#---------- OFFER ----------#
-
-alt = offer products
-
-Special Offer
-
-aria-label = 20% off
-
--20%
-
-Mountain Pine Bath Oil
-
-Made using clean, non-toxic ingredients, our products are designed for everyone.
-
-aria-label = days
-15
-
-aria-label = hours
-21
-
-aria-label = minutes
-46
-
-aria-label = seconds
-08
-
-Get Only $39.00
-
-
-
-#---------- BLOG ----------#
-
-More to Discover
-
-alt = Find a Store
-Find a Store
-
-Our Store
-<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-
-alt = From Our Blog
-From Our Blog
-
-alt = Our Story
-Our Story
+alt = photography
 
 
 
 #---------- FOOTER ----------#
 
-Company
+alt = Richard home
 
-Find a location nearest you. See
-Our Stores
+Fa.
+Insta.
+Tw.
 
-+391 (0)35 2568 4593
-hello@domain.com
+Made with love
 
-Useful links
-
-New Products
-Best Sellers
-Bundle & Save
-Online Gift Card
-
-Infomation
-
-Start a Return
-Contact Us
-Shipping FAQ
-Terms & Conditions
-Privacy Policy
-
-Good emails.
-
-Enter your email below to be the first to know about new collections and product launches.
-
-placeholder = Enter your email address
-
-Subscribe
-
-&copy; 2022 codewithsadee
-
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-instagram"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
-
-alt = Glowing
-
-alt = available all payment method
+alt = photography
 
 
 
@@ -284,4 +187,10 @@ alt = available all payment method
 
 aria-label = back to top
 
-<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
+
+
+#---------- LOADING ----------#
+
+alt = loading
+
+alt = loading shape

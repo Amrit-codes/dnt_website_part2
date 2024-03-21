@@ -1,41 +1,20 @@
 # Essential Stuff
 
-## Html import links
-
-Google font
-
-``` html
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-```
-
-Ionicon
-
-``` html
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-```
-
----
-
 ## Colors
 
 ``` css
---hoockers-green_20: hsl(148, 20%, 38%, 0.2);
---pale-spring-bud: hsl(60, 68%, 85%);
---hoockers-green: hsl(148, 20%, 38%);
---spanish-gray: hsl(0, 0%, 61%);
---light-gray: hsl(0, 0%, 80%);
---cultured-1: hsl(0, 0%, 97%);
---cultured-2: hsl(60, 6%, 93%);
---gray-web: hsl(0, 0%, 49%);
---white_30: hsl(0, 0%, 100%, 0.3);
---black_70: hsla(0, 0%, 0%, 0.7);
---black_50: hsla(0, 0%, 0%, 0.5);
---black_15: hsla(0, 0%, 0%, 0.15);
---black_10: hsla(0, 0%, 0%, 0.1);
---black_5: hsla(0, 0%, 0%, 0.05);
+--smokey-black: hsl(0, 0%, 7%);
+--eerie-black: hsl(0, 0%, 9%);
+--radical-red: hsl(346, 100%, 58%);
+--white_a9: hsla(0, 0%, 100%, 0.09);
+--white_a15: hsla(0, 0%, 100%, 0.15);
+--white_a25: hsla(0, 0%, 100%, 0.25);
+--white_a50: hsla(0, 0%, 100%, 0.5);
+--white_a70: hsla(0, 0%, 100%, 0.7);
+--white_a75: hsla(0, 0%, 100%, 0.75);
+--white_a80: hsla(0, 0%, 100%, 0.8);
+--jet-1: hsl(0, 0%, 20%);
+--jet-2: hsl(0, 0%, 16%);
 --white: hsl(0, 0%, 100%);
 --black: hsl(0, 0%, 0%);
 ```
@@ -43,48 +22,51 @@ Ionicon
 ## Gradient color
 
 ``` css
---gradient: linear-gradient(to right, transparent 50%, var(--white_30) 100%);
+--gradient-1: linear-gradient(180deg, transparent, var(--smokey-black));
+--gradient-2: linear-gradient(180deg,var(--smokey-black) 25%,hsla(0, 0%, 0%, 0.6) 80%);
 ```
 
 ## Typography
 
 ``` css
---ff-urbanist: 'Urbanist', sans-serif;
+--ff-recoleta: "Recoleta", serif;
+--ff-gordita: "Gordita", sans-serif;
 
---fs-1: 4.8rem;
---fs-2: 4rem;
---fs-3: 3.4rem;
---fs-4: 2.4rem;
---fs-5: 2rem;
---fs-6: 1.8rem;
---fs-7: 1.5rem;
---fs-8: 1.4rem;
---fs-9: 1.3rem;
+--fs-1: 6rem;
+--fs-2: 5rem;
+--fs-3: 3.8rem;
+--fs-4: 2.8rem;
+--fs-5: 2.6rem;
+--fs-6: 2.2rem;
+--fs-7: 2rem;
+--fs-8: 1.8rem;
+--fs-9: 1.5rem;
+--fs-10: 1.4rem;
+--fs-11: 1.2rem;
 
+--fw-300: 300;
 --fw-400: 400;
 --fw-500: 500;
---fw-600: 600;
---fw-700: 700;
---fw-800: 800;
 ```
 
 ## Spacing
 
 ``` css
---section-padding: 35px;
+--section-padding: 60px;
 ```
 
 ## Shadow
 
 ``` css
---shadow-1: 0 8px 16px var(--black_15);
---shadow-2: 0 4px 10px var(--black_5);
+--shadow: 0 12px 30px -10px hsla(0, 0%, 14%, 0.1);
 ```
 
 ## Border Radius
 
 ``` css
---radius-3: 3px;
+--radius-circle: 50%;
+--radius-5: 5px;
+--radius-25: 25px;
 ```
 
 ## Transition
@@ -92,6 +74,7 @@ Ionicon
 ``` css
 --transition-1: 0.25s ease;
 --transition-2: 0.5s ease;
+--transition-3: 1s ease;
 --cubic-in: cubic-bezier(0.51, 0.03, 0.64, 0.28);
 --cubic-out: cubic-bezier(0.33, 0.85, 0.4, 0.96);
 ```
